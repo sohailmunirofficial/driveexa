@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "drivexa",
-    "slug": "drivexa",
+    "name": "driveexa",
+    "slug": "driveexa",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "drivexa",
+    "scheme": "driveexa",
     "userInterfaceStyle": "automatic",
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.sohail.drivexa",
+      "bundleIdentifier": "com.sohail.driveexa",
       "buildNumber": "1",
       "config": {
         "usesNonExemptEncryption": false
@@ -26,7 +26,7 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "predictiveBackGestureEnabled": false,
-      "package": "com.sohail.drivexa"
+      "package": "com.sohail.driveexa"
     },
     "web": {
       "output": "server",
@@ -68,7 +68,7 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "93aa81ec-dedf-4196-b2f3-36522f10d145"
+        "projectId": "20384968-82b5-47ef-a48f-e635260198d8"
       }
     }
   }
